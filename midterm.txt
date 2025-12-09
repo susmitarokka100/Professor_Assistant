@@ -1,0 +1,60 @@
+Q: In which type of computer, data are represented as discrete signals?
+A: Digital Computer
+
+Q: The ability of an OS to run more than one application at a time is called?
+A: Multitasking
+
+Q: Which command in DOS can be used to recover accidentally deleted files?
+A: UNDELETE
+
+Q: In a computer, most processing takes place in__?
+A: CPU
+
+Q: Large transaction processing systems in automated organizations use__?
+A: Batch Processing
+
+Q: First page of a website is called__?
+A: Homepage
+
+Q: The ability to recover and read deleted or damaged files from a criminal's computer is called__?
+A: Computer Forensics
+
+Q: Number of different characters in ASCII coding system?
+A: 1024
+
+Q: What is correcting errors in a program called?
+A: Debugging
+
+Q: Name of the 1st electronic computer?
+A: ENIAC
+
+Q: Refresh rate of monitor is measured in__?
+A: Hertz
+
+Q: The amount of vertical space between lines of text in a document is called__?
+A: Line Spacing
+
+Q: Magnetic disk is an example of__?
+A: Secondary Memory
+
+Q: Full form of NOS?
+A: Network Operating System
+
+Q: Office LANs scattered geographically on a large scale can be connected by using__?
+A: WAN (Wide Area Network)
+
+Q: MSIC stands for__?
+A: Medium Scale Integrated Circuits
+
+Q: Where are the CPU and memory located?
+A: Motherboard
+
+Q: What does OSI stand for?
+A: Open System Interconnection
+
+Q: IBM stands for__?
+A: International Business Machines
+
+Q: Help Menu is available under which button?
+A: Start
+
